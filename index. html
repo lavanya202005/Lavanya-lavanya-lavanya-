@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>G LAVANYA.Portfolio</title>
+    <title>G Lavanya.Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -97,7 +97,7 @@
     <header>
         <div class="header-content">
             <img src="./pic.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>G LAVANYA</h1>
+            <h1>G Lavanya</h1>
             <p>Trainer</p>
         </div>
     </header>
@@ -139,7 +139,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2025 G LAVANYA. All Rights Reserved.</p>
+        <p>&copy; 2025 G Lavanya. All Rights Reserved.</p>
     </footer>
 </body>
 </html>
